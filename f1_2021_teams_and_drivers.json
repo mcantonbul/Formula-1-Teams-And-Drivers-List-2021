@@ -12,6 +12,7 @@
 			"TechinalChief": "James Allison",
 			"Chassis": "W12",
 			"PowerUnit": "Mercedes",
+			"PrimaryColor": "#02d1c1",
 			"Drivers": [{
 					"DriverId": 1,
 					"DriverName": "Lewis",
@@ -54,6 +55,7 @@
 			"TechinalChief": "Pierre Waché",
 			"Chassis": "RB16B",
 			"PowerUnit": "Honda",
+			"PrimaryColor": "#0302ee",
 			"Drivers": [{
 					"DriverId": 3,
 					"DriverName": "Max",
@@ -96,6 +98,7 @@
 			"TechinalChief": "James Key",
 			"Chassis": "MCL35M",
 			"PowerUnit": "Mercedes",
+			"PrimaryColor": "#fc9802",
 			"Drivers": [{
 					"DriverId": 5,
 					"DriverName": "Lando",
@@ -137,6 +140,7 @@
 			"TechinalChief": "Andrew Green",
 			"Chassis": "AMR21",
 			"PowerUnit": "Mercedes",
+			"PrimaryColor": "#026e5f",
 			"Drivers": [{
 					"DriverId": 7,
 					"DriverName": "Lance",
@@ -179,6 +183,7 @@
 			"TechinalChief": "Pat Fry/Remi Taffin",
 			"Chassis": "A521",
 			"PowerUnit": "Renault",
+			"PrimaryColor": "#0092f8",
 			"Drivers": [{
 					"DriverId": 9,
 					"DriverName": "Esteban",
@@ -221,6 +226,7 @@
 			"TechinalChief": "Enrico Cardile / Enrico Gualtieri",
 			"Chassis": "SF21",
 			"PowerUnit": "Ferrari",
+			"PrimaryColor": "#d90104",
 			"Drivers": [{
 					"DriverId": 11,
 					"DriverName": "Charles",
@@ -263,6 +269,7 @@
 			"TechinalChief": "Jody Egginton",
 			"Chassis": "ATO2",
 			"PowerUnit": "Honda",
+			"PrimaryColor": "#2c4565",
 			"Drivers": [{
 					"DriverId": 13,
 					"DriverName": "Pierre",
@@ -305,6 +312,7 @@
 			"TechinalChief": "Jan Monchaux",
 			"Chassis": "C41",
 			"PowerUnit": "Ferrari",
+			"PrimaryColor": "#8d0101",
 			"Drivers": [{
 					"DriverId": 15,
 					"DriverName": "Kimi",
@@ -347,6 +355,7 @@
 			"TechinalChief": "Simone Resta",
 			"Chassis": "VF-21",
 			"PowerUnit": "Ferrari",
+			"PrimaryColor": "#dadada",
 			"Drivers": [{
 					"DriverId": 17,
 					"DriverName": "Mick",
@@ -389,6 +398,7 @@
 			"TechinalChief": "Dave Robson",
 			"Chassis": "FW43B",
 			"PowerUnit": "Mercedes",
+			"PrimaryColor": "#025afe",
 			"Drivers": [{
 					"DriverId": 19,
 					"DriverName": "George",
