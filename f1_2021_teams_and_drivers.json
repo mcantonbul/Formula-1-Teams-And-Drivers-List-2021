@@ -3,10 +3,10 @@
 	"Teams": [{
 			"TeamId": 1,
 			"TeamName": "Mercedes",
-			"HighestFinish": 106,
+			"HighestFinish": 107,
 			"HighestPosition": 1,
 			"PolePositions": 118,
-			"FastestLaps": 75,
+			"FastestLaps": 76,
 			"ConstructorsChampionships": 7,
 			"TeamChief": "Toto Wolff",
 			"TechinalChief": "James Allison",
